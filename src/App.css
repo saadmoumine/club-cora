@@ -1,0 +1,57 @@
+.App, .Swimming {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure the app takes up the full viewport height */
+  text-align: center;
+  scroll-behavior: smooth; /* Smooth scrolling */
+  background-color: #e0f2f1; /* Light teal background */
+}
+
+.content {
+  flex: 1; /* Allow content to grow and fill available space */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+h2 {
+  margin-top: 40px;
+  color: #004d40; /* Teal color for headings */
+  font-size: 2.5em;
+  font-weight: bold;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 svg {
+  margin-right: 10px;
+}
+
+.carousel-container {
+  width: 90%;
+  margin-top: 20px;
+}
+
+/* Reusing Carousel styles */
+.carousel-slide {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  transition: transform 0.3s ease;
+}
+
+.carousel-slide:hover {
+  transform: scale(1.05);
+}
+
+.carousel-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
