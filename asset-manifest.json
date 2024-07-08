@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/saadmoumine/club-cora/static/css/main.988d70a6.css",
-    "main.js": "/saadmoumine/club-cora/static/js/main.689d53f7.js",
-    "static/js/453.18c64493.chunk.js": "/saadmoumine/club-cora/static/js/453.18c64493.chunk.js",
-    "static/media/slick.svg": "/saadmoumine/club-cora/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/saadmoumine/club-cora/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/saadmoumine/club-cora/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/saadmoumine/club-cora/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/saadmoumine/club-cora/index.html",
-    "main.988d70a6.css.map": "/saadmoumine/club-cora/static/css/main.988d70a6.css.map",
-    "main.689d53f7.js.map": "/saadmoumine/club-cora/static/js/main.689d53f7.js.map",
-    "453.18c64493.chunk.js.map": "/saadmoumine/club-cora/static/js/453.18c64493.chunk.js.map"
+    "main.css": "/club-cora/static/css/main.7cc898ba.css",
+    "main.js": "/club-cora/static/js/main.c6ebfb7a.js",
+    "static/js/453.18c64493.chunk.js": "/club-cora/static/js/453.18c64493.chunk.js",
+    "static/media/slick.svg": "/club-cora/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/club-cora/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/club-cora/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/club-cora/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/club-cora/index.html",
+    "main.7cc898ba.css.map": "/club-cora/static/css/main.7cc898ba.css.map",
+    "main.c6ebfb7a.js.map": "/club-cora/static/js/main.c6ebfb7a.js.map",
+    "453.18c64493.chunk.js.map": "/club-cora/static/js/453.18c64493.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.988d70a6.css",
-    "static/js/main.689d53f7.js"
+    "static/css/main.7cc898ba.css",
+    "static/js/main.c6ebfb7a.js"
   ]
 }
